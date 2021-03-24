@@ -1,4 +1,4 @@
-# boilerplate
+# mt-trips
 
 <p align="center">
  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/alqlima/boilerplate" />
@@ -18,7 +18,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
  ## Project status
  
  <h4 align="center">
-   🚧 Boilerplate 🚀 Concluded! 🚧
+   🚧 My Trips 🚀 Under construction... 🚧
  </h4>
 
 ## Getting Started
