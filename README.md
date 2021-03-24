@@ -1,12 +1,13 @@
 # mt-trips
 
 <p align="center">
- <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/alqlima/boilerplate" />
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/alqlima/boilerplate" />
-  <img alt="" src="https://img.shields.io/github/repo-size/alqlima/boilerplate" />
-  <img alt="GitHub Package.json Version" src="https://img.shields.io/github/package-json/v/alqlima/boilerplate" />
-  <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/alqlima/boilerplate" />
-  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/alqlima/boilerplate" />
+ <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/alqlima/my-trips" />
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/alqlima/my-trips" />
+  <img alt="" src="https://img.shields.io/github/repo-size/alqlima/my-trips" />
+  <img alt="GitHub Package.json Version" src="https://img.shields.io/github/package-json/v/alqlima/my-trips" />
+  <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/alqlima/my-trips" />
+  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/alqlima/my-trips" />
+  <img alt="Github License" src="https://img.shields.io/github/license/alqlima/my-trips" />
 </p>
 
 ## 💻 About the project
