@@ -1,4 +1,4 @@
-# mt-trips
+# my-trips
 
 <p align="center">
  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/alqlima/my-trips" />
